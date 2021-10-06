@@ -55,13 +55,12 @@ a {
   text-decoration: none;
 }
 
-.navigation-link {
+.navigation-link.current {
   color: var(--accent-color);
 }
 
 .contacts-link,
-.navigation-link
- {
+.navigation-link {
   color: var(--basic-color);
 }
 
