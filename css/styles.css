@@ -131,14 +131,14 @@ body {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
-  color: var(--basic-color);
+  color: var(--secondary-color);
 }
 
 .team-member {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.18;
-  color: var(--basic-color);
+  color: var(--secondary-color);
 }
 .team-text {
   font-weight: 400;
@@ -182,7 +182,7 @@ body {
 .filter:hover,
 .filter:focus {
   background-color: var(--accent-color);
-  color: #ffffff;
+  color: var(--white-color);
 }
 
 .filter-list {
